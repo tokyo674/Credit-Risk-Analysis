@@ -1,4 +1,4 @@
-# Banking Portfolio Intelligence: Transforming Raw Transactions into Actionable NPL Mitigation Strategies
+# Banking Intelligence: Transforming Raw Transactions into Actionable NPL Mitigation Strategies
 End-to-end data analytics project mapping default risk.
 #### [click Here to See the Dashboard](https://datastudio.google.com/reporting/f90ec42c-8c1d-457a-8040-3980b3331927)
 ## Executive Summary
