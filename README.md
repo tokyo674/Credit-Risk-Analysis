@@ -1,6 +1,6 @@
 # Banking Portfolio Intelligence: Transforming Raw Transactions into Actionable NPL Mitigation Strategies
 End-to-end data analytics project mapping default risk.
-**[click Here to See the Dashboard](https://datastudio.google.com/reporting/f90ec42c-8c1d-457a-8040-3980b3331927)**
+#### [click Here to See the Dashboard](https://datastudio.google.com/reporting/f90ec42c-8c1d-457a-8040-3980b3331927)
 ## Executive Summary
 Proyek ini diinisiasi untuk memitigasi risiko kerugian bank akibat tingginya rasio Non-Performing Loan (NPL) yang menyentuh angka 11.1% dari total portofolio senilai 103.3 Juta CZK, sebuah kendala yang berakar dari terfragmentasinya data transaksi dan demografi nasabah (data silos). Sebagai solusi strategis, saya membangun end-to-end data pipeline menggunakan SQL untuk mengintegrasikan data mentah tersebut menjadi Single Source of Truth (SSoT), yang kemudian ditransformasikan menjadi executive dashboard interaktif. Pemodelan ini berhasil mengungkap titik kebocoran utama portofolio, di mana nasabah dengan eksposur pinjaman besar (>211K CZK) mencetak default rate kritis sebesar 20%, diperparah oleh anomali geografis di wilayah West Bohemia yang mencatatkan NPL tertinggi hingga 15.79%. Berdasarkan data-driven insights tersebut, rekomendasi lanjutan (next steps) yang diajukan kepada jajaran manajemen adalah implementasi restrukturisasi Loan-to-Value (LTV) sebesar 20% khusus di zona merah, serta pengetatan syarat jaminan (collateral) untuk high-tier loans guna mengamankan likuiditas dan menekan angka gagal bayar di masa depan.
 
